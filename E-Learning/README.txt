@@ -1,4 +1,4 @@
-This project is an E-learning platform developed by Nidhal Abidi and Oussama Aouini as a summer project .
+This project is an E-learning platform developed by Souvik Kumar Patra as college final year project .
 We used for the front end : html , css , javascript and bootstrap (a framework) .
 for the back end we used : php and databases .
 
